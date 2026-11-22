@@ -1,0 +1,9 @@
+total 20
+drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:50 dir1
+lrwxrwxrwx 1 vlad vlad    4 Nov 22 15:50 dir1-sym -> dir1
+drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:50 dir2
+-rw-r--r-- 4 vlad vlad 1376 Nov 22 15:50 fun
+-rw-r--r-- 4 vlad vlad 1376 Nov 22 15:50 fun-hard
+lrwxrwxrwx 1 vlad vlad    3 Nov 22 15:50 fun-sym -> fun
+-rw-r--r-- 1 vlad vlad    0 Nov 22 15:50 ls-l.txt
+-rw-r--r-- 1 vlad vlad  277 Nov 22 15:50 ls-li.txt

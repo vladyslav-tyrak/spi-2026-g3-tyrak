@@ -1,0 +1,6 @@
+total 16
+45438 drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:50 dir1
+45440 drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:50 dir2
+45441 -rw-r--r-- 4 vlad vlad 1376 Nov 22 15:50 fun
+45441 -rw-r--r-- 4 vlad vlad 1376 Nov 22 15:50 fun-hard
+45442 -rw-r--r-- 1 vlad vlad    0 Nov 22 15:50 ls-li.txt
