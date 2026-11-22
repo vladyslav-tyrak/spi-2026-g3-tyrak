@@ -1,0 +1,40 @@
+LS(1)                                         General Commands Manual                                        LS(1)
+
+NAME
+       ls - List directory contents.  Ignore files and directories starting with a '.' by default
+
+SYNOPSIS
+       ls [--help] [--format] [-C ] [-l|--long] [-x ] [-T|--tabsize] [-m ] [--zero] [-D|--dired] [--hyperlink] [-1
+       ]  [-o  ]  [-g  ]  [-n|--numeric-uid-gid]  [--quoting-style] [-N|--literal] [-b|--escape] [-Q|--quote-name]
+       [-q|--hide-control-chars] [--show-control-chars] [--time] [-c ]  [-u  ]  [--hide]  [-I|--ignore]  [-B|--ig‐
+       nore-backups]  [--sort]  [-S  ] [-t ] [-v ] [-X ] [-U ] [-L|--dereference] [--dereference-command-line-sym‐
+       link-to-dir] [-H|--dereference-command-line] [-G|--no-group] [--author] [-a|--all] [-A|--almost-all] [-f  ]
+       [-d|--directory]  [-h|--human-readable]  [-k|--kibibytes] [--si] [--block-size] [-i|--inode] [-r|--reverse]
+       [-R|--recursive] [-w|--width] [-s|--size] [--color] [--indicator-style] [-F|--classify] [--file-type] [-p ]
+       [--time-style] [--full-time] [-Z|--context] [--group-directories-first] [-V|--version] [paths]
+
+DESCRIPTION
+       List directory contents.  Ignore files and directories starting with a '.' by default
+
+OPTIONS
+       --help Print help information.
+
+       --format
+              Set the display format.
+
+       -C     Display the files in columns.
+
+       -l, --long
+              Display detailed information.
+
+       -x     List entries in rows instead of in columns.
+
+       -T, --tabsize <COLS>
+              Assume tab stops at each COLS instead of 8
+
+       -m     List entries separated by commas.
+
+       --zero List entries separated by ASCII NUL characters.
+
+       -D, --dired
+              generate output designed for Emacs' dired (Directory Editor) mode

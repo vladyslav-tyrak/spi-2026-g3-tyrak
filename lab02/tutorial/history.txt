@@ -1,0 +1,25 @@
+    1  cd ~
+    2  git config --global user.name "Vladyslav Tyrak"
+    3  git config --global user.email "bigsmo0055@gmail.com"
+    4  git config --global credential.helper store
+    5  git clone https://github.com/vladyslav-tyrak/spi-2026-g3-tyrak.git
+    6  cd spi-2026-g3-tyrak
+    7  mkdir lab01
+    8  touch lab01/.keep
+    9  git add lab01
+   10  git commit -m "Dodany podkatalog lab01"
+   11  git push
+   13  git push
+   14  mkdir lab02
+   15  touch lab02/.keep
+   16  git add lab02 && git commit -m "Dodany podkatalog lab02" && git push
+   17  mkdir lab02/tutorial && cd lab02/tutorial
+   18  pwd > pwd.txt
+   19  ls -l / > ls.txt
+   20  mkdir dir1 dir2 dir3 && touch dir1/.keep dir2/.keep dir3/.keep
+   21  echo "Witaj, swiecie" > test.txt && cat test.txt > cat.txt
+   22  ls ~ > ls-home.txt && ls -l > ls-l.txt
+   23  cp test.txt kopia.txt && mv kopia.txt przeniesiony.txt && rm przeniesiony.txt
+   24  ls -l /etc | head > head.txt && ls -l /etc | tail > tail.txt
+   25  man ls | head -40 > man-ls.txt
+   26  history > history.txt

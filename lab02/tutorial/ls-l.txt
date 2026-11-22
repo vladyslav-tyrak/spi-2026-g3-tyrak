@@ -1,0 +1,10 @@
+total 32
+-rw-r--r-- 1 vlad vlad   15 Nov 22 15:33 cat.txt
+drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:33 dir1
+drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:33 dir2
+drwxr-xr-x 2 vlad vlad 4096 Nov 22 15:33 dir3
+-rw-r--r-- 1 vlad vlad   18 Nov 22 15:33 ls-home.txt
+-rw-r--r-- 1 vlad vlad    0 Nov 22 15:33 ls-l.txt
+-rw-r--r-- 1 vlad vlad 1176 Nov 22 15:33 ls.txt
+-rw-r--r-- 1 vlad vlad   44 Nov 22 15:33 pwd.txt
+-rw-r--r-- 1 vlad vlad   15 Nov 22 15:33 test.txt

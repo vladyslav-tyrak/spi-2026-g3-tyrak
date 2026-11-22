@@ -1,0 +1,10 @@
+drwxr-xr-x 2 root root       4096 Aug 27 14:12 vim
+lrwxrwxrwx 1 root root         23 Mar  2  2026 vtrgb -> /etc/alternatives/vtrgb
+drwxr-xr-x 5 root root       4096 Aug 27 14:12 vulkan
+-rw-r--r-- 1 root root       4942 Aug 19 23:59 wgetrc
+-rw-r--r-- 1 root root        204 Aug 27 14:13 wsl-distribution.conf
+-rw-r--r-- 1 root root         41 Nov 22 15:17 wsl.conf
+-rw-r--r-- 1 root root        681 Feb 15  2026 xattr.conf
+drwxr-xr-x 5 root root       4096 Aug 27 14:12 xdg
+drwxr-xr-x 2 root root       4096 Aug 27 14:13 xml
+-rw-r--r-- 1 root root        460 Jan 20  2023 zsh_command_not_found
