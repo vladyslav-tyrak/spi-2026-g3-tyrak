@@ -1,0 +1,3 @@
+type is a shell builtin
+ls is aliased to `ls --color=auto'
+cd is a shell builtin
