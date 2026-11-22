@@ -1,0 +1,4 @@
+banan
+gruszka
+jablko
+sliwka
