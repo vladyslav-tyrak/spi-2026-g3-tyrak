@@ -1,0 +1,21 @@
+Filesystem      1K-blocks      Used  Available Use% Mounted on
+none              3990456         0    3990456   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb            99148     99148          0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none              3990456         4    3990452   1% /mnt/wsl
+drivers         203922428 171902772   32019656  85% /usr/lib/wsl/drivers
+/dev/sdd       1055762868   1595744 1000463652   1% /
+none              3990456        44    3990412   1% /mnt/wslg
+none              3990456         0    3990456   0% /usr/lib/wsl/lib
+rootfs            3985336      3412    3981924   1% /init
+none              3990456       572    3989884   1% /run
+none              3990456         0    3990456   0% /run/lock
+none              3990456         0    3990456   0% /run/shm
+none              3990456        80    3990376   1% /mnt/wslg/versions.txt
+none              3990456        80    3990376   1% /mnt/wslg/doc
+tmpfs             3990456         0    3990456   0% /tmp
+none                 1024         0       1024   0% /run/credentials/systemd-journald.service
+none                 1024         0       1024   0% /run/credentials/systemd-resolved.service
+none                 1024         0       1024   0% /run/credentials/getty@tty1.service
+tmpfs              798088        12     798076   1% /run/user/1000
+C:\             203922428 171902772   32019656  85% /mnt/c
+D:\             771841020 329750540  442090480  43% /mnt/d
