@@ -1,0 +1,18 @@
+== uname -a
+Linux DESKTOP-O985OBO 6.18.58.1-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Tue Oct 27 00:24:11 UTC 2026 x86_64 GNU/Linux
+== uname -s
+Linux
+== uname -n
+DESKTOP-O985OBO
+== uname -r
+6.18.58.1-microsoft-standard-WSL2
+== uname -v
+#1 SMP PREEMPT_DYNAMIC Tue Oct 27 00:24:11 UTC 2026
+== uname -m
+x86_64
+== uname -p
+unknown
+== uname -i
+unknown
+== uname -o
+GNU/Linux
