@@ -1,0 +1,25 @@
+apropos - przeszukuje nazwy i opisy stron podr˛ecznika systemowego
+cal - wy´swietla kalendarz
+cat- wyswitla zawartosch pliku 
+cd - zmienia katalog
+chmod -zmienia prawa dostepu
+cp - kopiuje pliki
+date - wyswietla date i gozine
+df - pokazuje wolne miejsce na dysku
+echo - wypisuje tekst 
+free - pokazuje wolna pamiec
+grep - wyzxukuje wzorzec w pliku 
+head - wyswietla pozcatek w pliku 
+id - wyswietla identyfikator uzytkowika
+ls - wyswiet;a zawartosch katalogu 
+man - wyswietla podrecznik poleczenia
+mkdir - tworzy katalog 
+mv - prenosi lub zmienie nazwe pliku
+pwd - wyswietla biezacy katalog
+rm - usuwa pliki
+sort - sotruje wiersze 
+tail - wyswietla koniec pliku
+touch - tworzy pusty plik
+uname - informacjy o systemie
+wc - liczy wiersze , slowa i bajty
+whoami - wyswietla nazwe uzytkonika
