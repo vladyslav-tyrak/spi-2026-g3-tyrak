@@ -1,0 +1,31 @@
+1. Tak, uzytkownik ma prawe na rw.
+2. Nie. Bob nie ma prawa w do katalogu.
+3. Nie, Bob nie ma prawa x do katalogu
+4. 
+4. Tak, uzytkownik ma prawo w.
+5. 81
+6. 27
+7. 1100
+8. rwx-rwx-rwx wszyscy wszystko
+9. r--r--r-- - wszyscu tylko odczyt
+10. rw-r----x
+11. umask
+12. Maska odbiera prawa nowym plikom
+13. rw-r--r-- (644)
+14. rwxr-xr-x (755)
+15. wyjscie do katalogu (cd) 
+16. tworzenie i usuwanie plikow v katalou 
+17. sticky bit
+18. nie, tylko wlasne pliki
+19. nie. T to brak prawa x
+20. chown
+21. chgrp
+22. -R
+23. -c
+24. SUID to program dzziala z prawami wlasciciela
+25. passws - zapisuje do /etc/shadow 
+26. chmod u+s plik
+27. GUID to program dziala z prawami grupy
+28. chmod g+s plik
+29. nie w pelni dziala umask; cp -p zachowuje
+30. t - sticky bit z x; T - bez x
